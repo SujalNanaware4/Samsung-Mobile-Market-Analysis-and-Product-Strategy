@@ -64,7 +64,8 @@ This project demonstrates end-to-end data analysis:
 
 ---
 screenshots section-
-
-
-
-Just tell me 👍
+Brand Overview - https://github.com/SujalNanaware4/Samsung-Mobile-Market-Analysis-and-Product-Strategy/blob/main/Brand%20Overview.png
+Price Segments Analysis - 
+Feature Comparison - 
+Samsung vs Competitors - 
+Recommendation - 
